@@ -145,7 +145,7 @@ GROUP BY trip_hour
 ORDER BY trip_hour;
 
 -- CHALLENGE
--- Calculate the duration of each ride and query from shortest from the logest to the shortest
+-- Calculate the duration of each ride and query from shortest from the longest to the shortest
 
 -- My solution
 SELECT trip_id, (tpep_dropoff_datetime - tpep_pickup_datetime) as ride_duration
