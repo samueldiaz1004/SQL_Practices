@@ -1,0 +1,2 @@
+-- Practice 10 - Data mining
+-- Samuel Alejandro Díaz del Guante Ochoa
